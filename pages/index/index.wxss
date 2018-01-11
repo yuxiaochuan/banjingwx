@@ -19,3 +19,7 @@
 .usermotto {
   margin-top: 200px;
 }
+
+.index-search {
+  width: 128rpx;
+}
